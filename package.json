@@ -1,0 +1,18 @@
+{
+  "name": "dtsgenerator-express-route-types-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "dtsgen api.json --out api.d.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4"
+  },
+  "dependencies": {
+    "dtsgenerator": "^3.3.1",
+    "dtsgenerator-express-route-types": "^0.1.4"
+  }
+}

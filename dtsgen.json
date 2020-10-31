@@ -1,0 +1,8 @@
+{
+    "plugins": {
+	    "dtsgenerator-express-route-types": {
+			"placeholderType": "unknown", 
+			    "routeTypeName": "Route"
+		    }
+			}
+}
